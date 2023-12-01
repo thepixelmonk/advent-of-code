@@ -1,1 +1,1 @@
-# codewars
+# Advent of Code
